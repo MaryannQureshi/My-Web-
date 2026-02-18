@@ -1,0 +1,196 @@
+
+
+
+
+    .carousel
+    .caruimg1{
+      background-image:url(https://preview.colorlib.com/theme/fashe/images/master-slide-02.jpg) ;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 80vh;
+      position: relative;
+      text-align: center;
+    }
+    .textcaru1 div button{
+      background-color: rgb(255, 255, 255);
+      border: none;
+      border-radius: 15px;
+     
+    }
+    .textcaru1 button:hover{
+      background-color: #e74c3c;
+      /* color: rgb(255, 255, 255); */
+    }
+    .textcaru1 a:hover{
+      color: white;
+    }
+
+     .textcaru1 div button a{
+      text-decoration: none;
+       color: rgb(0, 0, 0);
+       font-size: 18px;
+       padding: 25px 25px;
+     }
+
+    .textcaru1{
+  position: absolute;
+  top: 40%;
+  text-align: center;
+  left: 40%; 
+}
+
+.textcaru1 span{
+  font-size: large;
+  letter-spacing: 1.5px;
+  word-spacing: 8.5px;
+  font-weight:bold;
+  padding-bottom: 40px;
+}
+.textcaru1 h2{
+  color: white;
+  letter-spacing: 3px;
+  font-weight: bolder;
+  font-size:40px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin-bottom: 0;
+
+}
+
+    .caruimg2{
+       background-image:url(https://preview.colorlib.com/theme/fashe/images/master-slide-03.jpg) ;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 80vh;
+      position: relative;
+    }
+    .textcaru2 div button{
+      background-color: rgb(255, 255, 255);
+      border: none;
+      border-radius: 15px;
+     
+    }
+    .textcaru2 button:hover{
+      background-color: #e74c3c;
+      /* color: rgb(255, 255, 255); */
+    }
+    .textcaru2 a:hover{
+      color: white;
+    }
+
+     .textcaru2 div button a{
+      text-decoration: none;
+       color: rgb(0, 0, 0);
+       font-size: 18px;
+       padding: 25px 25px;
+     }
+
+     .textcaru2{
+  position: absolute;
+  top: 40%;
+  text-align: center;
+  left: 40%; 
+}
+
+.textcaru2 span{
+  font-size: large;
+  letter-spacing: 1.5px;
+  word-spacing: 8.5px;
+  font-weight:bold;
+  padding-bottom: 40px;
+}
+.textcaru2 h2{
+  color: white;
+  letter-spacing: 3px;
+  font-weight: bolder;
+  font-size:40px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin-bottom: 0;
+
+}
+
+
+    .caruimg3{
+       background-image:url(https://preview.colorlib.com/theme/fashe/images/master-slide-04.jpg) ;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 80vh;
+      position: relative;
+    }
+    .textcaru3 div button{
+      background-color: rgb(255, 255, 255);
+      border: none;
+      border-radius: 15px;
+     
+    }
+    .textcaru3 button:hover{
+      background-color: #e74c3c;
+      /* color: rgb(255, 255, 255); */
+    }
+    .textcaru3 a:hover{
+      color: white;
+    }
+
+     .textcaru3 div button a{
+      text-decoration: none;
+       color: rgb(0, 0, 0);
+       font-size: 18px;
+       padding: 25px 25px;
+     }
+
+     .textcaru3{
+  position: absolute;
+  top: 40%;
+  text-align: center;
+  left: 40%; 
+}
+
+.textcaru3 span{
+  font-size: large;
+  letter-spacing: 1.5px;
+  word-spacing: 8.5px;
+  font-weight:bold;
+  padding-bottom: 40px;
+}
+.textcaru3 h2{
+  color: white;
+  letter-spacing: 3px;
+  font-weight: bolder;
+  font-size:40px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin-bottom: 0;
+
+}
+
+    .carousel1{
+      /* padding: 40px 0!important; */
+      padding: 0;
+    margin-top: 65px;
+    width: 100%;
+    
+}
+
+
+
+ 
+@media (max-width: 576px){
+.carousel-item img{
+  width: 100%;
+  height: 50vh;
+}
+}
+@media (max-width: 776px){
+.carousel-item {
+  width: 100%;
+  height: 50vh;
+}
+}
+
+@media (max-width: 992px) {
+  .carousel-item img{
+    height: 60vh;
+    /* width: ; */
+  }
+}
